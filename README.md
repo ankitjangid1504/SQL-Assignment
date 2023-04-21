@@ -2,6 +2,8 @@
 -------------------------------------------------------------------------------------------------
 ASSIGNMENT SQL [MAJOR] by Ankit Jangid
 Solution Queries:
+
+
 1)
 Create table Station (
 ID number PRIMARY KEY,
